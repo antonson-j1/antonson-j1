@@ -1,6 +1,6 @@
 ### Hi there, I'm Antonson - aka [antonson-j1][linkedin] 👋
 
-[![linkedin](https://img.shields.io/linkedin?label=antonson-j.com&style=for-the-badge&url=https%3A%2F%2Fantonson-j.com)](https://www.linkedin.com/in/antonson-j-980534194/)
+[![linkedin](https://img.shields.io/website?label=antonson-j1&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/antonson-j-980534194/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/j_antonson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonson-j1&screen_name=j_antonson)
 
 ## I'm a IIT'ian, Father, Developer, and Student!
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to exeperiment and learn
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-antonson-j.vercel.app/api/spotify-playing" alt="antonson-j Spotify Playing" width="350" />](https://open.spotify.com/user/314hds3pfvy47vtrpebltdv5547i)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="antonson-j Spotify Playing" width="350" />](https://open.spotify.com/user/314hds3pfvy47vtrpebltdv5547i)
 
 ### Connect with me:
 
@@ -49,3 +49,4 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/ant0n.s0n/
 [linkedin]: https://www.linkedin.com/in/antonson-j-980534194/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
