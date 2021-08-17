@@ -3,12 +3,12 @@
 [![linkedin](https://img.shields.io/website?label=antonson-j1&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/antonson-j-980534194/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/j_antonson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonson-j1&screen_name=j_antonson)
 
-## I'm an IIT'ian, tECH eNTHUSIAST, FSAE ENgiNEER, and Student!
+## I'm just another student :D
 
 - 🔭 I’m currently working on [Raftar Formula Racing, IIT Madras][linkedin]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other project members!
-- 🥅 2020 Goals: Contribute more to projects
+- 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to exeperiment and learn
 
 ### Spotify Playing 🎧
